@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C30851DF20EB3F9F00708AAF /* MainMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30851DE20EB3F9F00708AAF /* MainMenu.swift */; };
 		C312F5A820D2CF3100743DDE /* theBoldFont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C312F5A720D2CF1400743DDE /* theBoldFont.ttf */; };
 		C328B33D20D406DD000AE859 /* GameOver.swift in Sources */ = {isa = PBXBuildFile; fileRef = C328B33C20D406DD000AE859 /* GameOver.swift */; };
 		C34C376E20D0668A003E9B08 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C34C376D20D0668A003E9B08 /* AppDelegate.swift */; };
@@ -41,6 +42,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C30851DE20EB3F9F00708AAF /* MainMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenu.swift; sourceTree = "<group>"; };
 		C312F5A720D2CF1400743DDE /* theBoldFont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = theBoldFont.ttf; sourceTree = "<group>"; };
 		C328B33C20D406DD000AE859 /* GameOver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOver.swift; sourceTree = "<group>"; };
 		C34C376A20D0668A003E9B08 /* Solo Mission.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Solo Mission.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -114,6 +116,7 @@
 				C34C376D20D0668A003E9B08 /* AppDelegate.swift */,
 				C34C376F20D0668A003E9B08 /* GameScene.sks */,
 				C34C377120D0668A003E9B08 /* Actions.sks */,
+				C30851DE20EB3F9F00708AAF /* MainMenu.swift */,
 				C328B33C20D406DD000AE859 /* GameOver.swift */,
 				C34C377320D0668A003E9B08 /* GameScene.swift */,
 				C34C377520D0668A003E9B08 /* GameViewController.swift */,
@@ -285,6 +288,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C30851DF20EB3F9F00708AAF /* MainMenu.swift in Sources */,
 				C34C377420D0668A003E9B08 /* GameScene.swift in Sources */,
 				C34C377620D0668A003E9B08 /* GameViewController.swift in Sources */,
 				C34C376E20D0668A003E9B08 /* AppDelegate.swift in Sources */,
